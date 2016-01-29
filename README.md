@@ -6,7 +6,7 @@ And keep in mind ,this is not the whole idea about ES (elasticsearch).
 
 *! sorry note* :  
 I’m not going to teach or demo about “install ES” and  “ system confutation” .Please visit Elasticsearch official web site and continue it . https://www.elastic.co/guide/en/elasticsearch/reference/current/_installation.html
-(Please run  all queries using elasticsearch sense plugin )
+(Please run  all queries in elasticsearch sense plugin )
 How to install Elasticsearch sense plugin, this is  very simple tutorial https://www.youtube.com/watch?v=LNr1ORM4s38 you can refer this.
 
 
