@@ -1,5 +1,6 @@
-// elasticsearch basic queries
+
 
 {
-  "test" : "this i my first comminte"
+  "test" : "this i my first comminte",
+  "version": "1.0.0"
 }
