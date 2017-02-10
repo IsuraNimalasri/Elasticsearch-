@@ -1,0 +1,11 @@
+// According to Lib_book_dataset
+// very simple serach query
+GET library/book/_search
+{
+"query" : {
+"query_string" : { "query" : "title:crime" }
+}
+}
+
+
+//
