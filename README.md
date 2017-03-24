@@ -9,6 +9,9 @@ I’m not going to teach or demo about “install ES” and  “ system confutat
 (Please run  all queries in elasticsearch sense plugin )
 How to install Elasticsearch sense plugin, (for 1.1.5 new ES sense plugin comes with Kibana) this is  very simple tutorial https://www.youtube.com/watch?v=LNr1ORM4s38 you can refer this.
 
+Head Plugin :https://mobz.github.io/elasticsearch-head/
+
+
 
 
 
